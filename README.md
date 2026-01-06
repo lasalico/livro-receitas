@@ -7,7 +7,5 @@ Olá! Bem vindo ao meu livro de receitas :bowl_with_spoon:
 - Quichê de espinafre :leafy_green:
 
 - Bolo de morango :cake:
-  
-  
-  
-  
+
+- Bolo de chocolate :cake: 
